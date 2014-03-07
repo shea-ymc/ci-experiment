@@ -1,0 +1,9 @@
+{
+    "name": "ci-experiment",
+    "description": "Testing out some buildy, deployie stuff",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.5.0"
+    }
+}
